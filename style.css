@@ -173,13 +173,15 @@ nav li:nth-child(4){
     /* background-color: yellow; */
     /* background: linear-gradient(to right, #d4d2c8, #f2f2f2, #dbdbdb, #eaeaea); */
     /* background-color: white; */
-    background: linear-gradient(to right, #d3cce3, #e9e4f0);
+    background: linear-gradient(to right, #e8e0f9, #e9e4f0);
     color: black;
 
     border: 3px solid rgb(164, 164, 164);
     border-radius: 20px;
 
     text-align: center;
+
+    opacity: 0.96;
 
     z-index: 1;
     
